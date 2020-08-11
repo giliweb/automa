@@ -6,3 +6,6 @@
 ## [0.0.28](https://https///github.com/giliweb/automa/commit64532f4f65f2bf5f56ccf7e4fdc5943d33c4b960) 
 * [Added support for github links in CHANGELOG.md](https://https///github.com/giliweb/automa/commit64532f4f65f2bf5f56ccf7e4fdc5943d33c4b960) 
 
+## [0.0.29](https://https///github.com/giliweb/automa/commit83f301cb493c45925ec80ed3cf471a6d8a26e704) 
+* [Fixed https url issue](https://https///github.com/giliweb/automa/commit83f301cb493c45925ec80ed3cf471a6d8a26e704) 
+
