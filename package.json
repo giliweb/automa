@@ -21,10 +21,26 @@
         "husky": "^4.2.5",
         "minimist": "^1.2.5"
     },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/giliweb/automa.git"
+    },
     "husky": {
         "hooks": {
             "post-commit": "node bin/automa  --increment-version --auto-commit --update-changelog",
             "post-merge": "node bin/automa  --increment-version --auto-commit --update-changelog"
         }
+    },
+    "author": "Antonio Giliberto",
+    "homepage": "https://github.com/giliweb/automa",
+    "keywords": [
+        "automation",
+        "version increment",
+        "changelog",
+        "automatic update",
+        "git hooks"
+    ],
+    "bugs": {
+        "url": "https://github.com/giliweb/automa/issues"
     }
 }
