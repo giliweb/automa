@@ -18,3 +18,6 @@
 ## [0.0.32](https://github.com/giliweb/automa/commit/ecc80efd84307071fa95bcc1610e00b2fc755c9c) 
 * [minor change to repolink calculation](https://github.com/giliweb/automa/commit/ecc80efd84307071fa95bcc1610e00b2fc755c9c) 
 
+## [0.0.33](https://github.com/giliweb/automa/commit/cc2f40a91729783a1a1e166bc48b56d57066cf62) 
+* [minor fix](https://github.com/giliweb/automa/commit/cc2f40a91729783a1a1e166bc48b56d57066cf62) 
+
