@@ -38,7 +38,8 @@
         "version increment",
         "changelog",
         "automatic update",
-        "git hooks"
+        "git hooks",
+        "version bumping"
     ],
     "bugs": {
         "url": "https://github.com/giliweb/automa/issues"
