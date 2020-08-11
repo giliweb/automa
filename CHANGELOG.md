@@ -30,3 +30,6 @@
 ## [0.0.37](https://github.com/giliweb/automa/commit/9a6aa2af0788abe12b8d32a9e6d959847e984aaf) 
 * [Added short README.md](https://github.com/giliweb/automa/commit/9a6aa2af0788abe12b8d32a9e6d959847e984aaf) 
 
+## [0.0.38](https://github.com/giliweb/automa/commit/0d33af78219594aa97c5d66b1c80f79dece4d5a3) 
+* [Added details to package.json](https://github.com/giliweb/automa/commit/0d33af78219594aa97c5d66b1c80f79dece4d5a3) 
+
