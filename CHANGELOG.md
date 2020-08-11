@@ -27,3 +27,6 @@
 ## [0.0.36](https://github.com/giliweb/automa/commit/9306392366c9b86e9ef549a50ab2da66b5c5638b) 
 * [switched to npm run instead of yarn](https://github.com/giliweb/automa/commit/9306392366c9b86e9ef549a50ab2da66b5c5638b) 
 
+## [0.0.37](https://github.com/giliweb/automa/commit/9a6aa2af0788abe12b8d32a9e6d959847e984aaf) 
+* [Added short README.md](https://github.com/giliweb/automa/commit/9a6aa2af0788abe12b8d32a9e6d959847e984aaf) 
+
