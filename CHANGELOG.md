@@ -33,3 +33,6 @@
 ## [0.0.38](https://github.com/giliweb/automa/commit/0d33af78219594aa97c5d66b1c80f79dece4d5a3) 
 * [Added details to package.json](https://github.com/giliweb/automa/commit/0d33af78219594aa97c5d66b1c80f79dece4d5a3) 
 
+## [0.0.39](https://github.com/giliweb/automa/commit/7c044c28c6030a5c7c1a8ba3e6251b5b5d55bc38) 
+* [Added keyword to package.json](https://github.com/giliweb/automa/commit/7c044c28c6030a5c7c1a8ba3e6251b5b5d55bc38) 
+
