@@ -12,3 +12,6 @@
 ## [0.0.30](https://https///github.com/giliweb/automa/commitf308cb8c3c08ba84fc59a26897bfd6211dc3bf26) 
 * [Fixed https url issue](https://https///github.com/giliweb/automa/commitf308cb8c3c08ba84fc59a26897bfd6211dc3bf26) 
 
+## [0.0.31](https://https///github.com/giliweb/automa/commit90b5eae969fcc490cf712b32d95f9621ed54d8a4) 
+* [test](https://https///github.com/giliweb/automa/commit90b5eae969fcc490cf712b32d95f9621ed54d8a4) 
+
