@@ -22,8 +22,8 @@
     },
     "husky": {
         "hooks": {
-            "post-commit": "yarn automa",
-            "post-merge": "yarn automa"
+            "post-commit": "node bin/automa  --increment-version --auto-commit --update-changelog",
+            "post-merge": "node bin/automa  --increment-version --auto-commit --update-changelog"
         }
     }
 }
