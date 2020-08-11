@@ -1,6 +1,7 @@
 {
     "name": "automa",
-    "version": "0.0.33",
+    "description": "Automatic npm package version increase and CHANGELOG.md update, based on commit messages",
+    "version": "0.0.34",
     "main": "index.js",
     "license": "MIT",
     "bin": {
