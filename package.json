@@ -1,0 +1,29 @@
+{
+    "name": "automa",
+    "version": "0.0.26",
+    "main": "index.js",
+    "license": "MIT",
+    "bin": {
+        "automa": "bin/automa"
+    },
+    "files": [
+        "index.js",
+        "bin",
+        "lib"
+    ],
+    "scripts": {
+        "postinstall": "node index.js --exec install",
+        "automa": "automa --increment-version --auto-commit --update-changelog"
+    },
+    "dependencies": {
+        "app-root-path": "^3.0.0",
+        "husky": "^4.2.5",
+        "minimist": "^1.2.5"
+    },
+    "husky": {
+        "hooks": {
+            "post-commit": "yarn automa",
+            "post-merge": "yarn automa"
+        }
+    }
+}

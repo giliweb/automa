@@ -1,0 +1,9 @@
+#!/usr/bin/env node
+
+const { Automa } = require('./../lib/automa')
+try {
+    new Automa()
+} catch(e){
+    console.error(e)
+}
+
