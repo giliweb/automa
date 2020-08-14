@@ -36,3 +36,6 @@
 ## [0.0.39](https://github.com/giliweb/automa/commit/7c044c28c6030a5c7c1a8ba3e6251b5b5d55bc38) 
 * [Added keyword to package.json](https://github.com/giliweb/automa/commit/7c044c28c6030a5c7c1a8ba3e6251b5b5d55bc38) 
 
+## [0.0.40](https://github.com/giliweb/automa/commit/d8c227c48392304ce02c92bf5f7142e955bb41a2) 
+* [Added exception for post-merge hook from remote branch](https://github.com/giliweb/automa/commit/d8c227c48392304ce02c92bf5f7142e955bb41a2) 
+
